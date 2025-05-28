@@ -25,3 +25,17 @@ Artificial Intelligence (AI)
 Machine Learning (ML)
 Deep Learning
 General greetings and basic questions about the bot
+
+# Output : 
+Hello! Welcome to the Python chatbot!
+>what is ai
+AI stands for Artificial Intelligence, which refers to the development of computer systems that can perform tasks that typically require human intelligence.
+>what is deep learning
+Deep learning is a type of machine learning that uses neural networks with multiple layers to analyze data.
+>"who created you
+None
+>who created you  
+I was created using NLTK and Python.
+>quit
+Goodbye!
+
